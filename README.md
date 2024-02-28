@@ -20,4 +20,4 @@ On the resources within the resource group, the following Tags must exist:
 - Purpose
 - Department
 
-All tags from the resource group will be inherited by the resources within the resource group if not defined on the resource.
+All tags from the resource group will be inherited by the resources within the resource group if not defined on the resource level directly.
